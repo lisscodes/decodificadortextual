@@ -28,8 +28,9 @@ O objetivo deste challenge é testar as habilidades do desenvolvedor para desenv
         - Unidades de medida;
         - Fontes web (tipografia);
         - Responsividade;
-        - Conceitos de HTML como:
+        
+- Conceitos de HTML como:
 
-- Estruturação semântica;
-- Acessibilidade;
-- Legibilidade. 
+        - Estruturação semântica;
+        - Acessibilidade;
+        - Legibilidade. 
